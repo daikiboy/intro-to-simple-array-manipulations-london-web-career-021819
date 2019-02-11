@@ -34,5 +34,5 @@ def using_insert(list_of_esoteric_programming_languages, another_esoteric_langua
 end
 
 def using_delete(instructor, "Steven")
-  instructor.delete("Steven")
+  instructor.delete"Steven"
 end
